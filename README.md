@@ -4,26 +4,11 @@ you can change the data in "cannondata.txt"
 
 the structure is like this :
 
-0 <- Cannon X
+the first 3 lines is cannon x, y and z
 
-0 <- Cannon Y
+the second 3 lines is target x, y and z
 
-0 <- Cannon Z
-
-
-
-0 <= Target X
-
-0 <= Target Y
-
-0 <= Target Z
-
-
-
-Create_SequencedGearshift_0
-
+Create_SequencedGearshift_0 <= this was the sequenced gearshift link them using modems
 Create_SequencedGearshift_1
 
-
-
-n
+n <= directions
