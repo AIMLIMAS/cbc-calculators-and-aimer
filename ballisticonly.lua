@@ -60,7 +60,8 @@ local pitch_low = deg(math.atan((v^2 - root) / (g * d)))
 local pitch_high = deg(math.atan((v^2 + root) / (g * d)))
 
 -- Output
-print("===== SOLUTION =====")
+print("SOLUTION")
 print("Yaw:", yaw)
 print("Low Arc Pitch:", pitch_low)
+
 print("High Arc Pitch:", pitch_high)
