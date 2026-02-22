@@ -12,4 +12,4 @@ Create_SequencedGearshift_0 <= For Controlling Pitch
 
 Create_SequencedGearshift_1 <= For Controlling Yaw
 
-n <= directions
+n <= directions (north)
