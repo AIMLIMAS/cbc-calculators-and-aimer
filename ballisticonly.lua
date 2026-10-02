@@ -1,4 +1,4 @@
--- Simple Ballistic Calculator (Clean Version)
+--IYKYK AIMLIMAS
 
 local rad = math.rad
 local deg = math.deg
